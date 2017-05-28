@@ -1,0 +1,38 @@
+.site_header {
+  margin: auto auto 5px auto;
+  width: 75%;
+  border: 2px solid green;
+  border-radius: 5px;
+  padding: 3px 5px 5px 3px;
+  background-color: #f7fff7;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+.thought_submit {
+  border-radius: 3px;
+}
+
+.text_thought {
+  margin: auto;
+  width: 75%;
+  border: 1px solid green;
+  border-radius: 3px;
+  padding: 3px 5px 15px 3px;
+  background-color: #f7fff7;
+}
+.like_count {
+
+  display:inline;
+  margin-left: 5px;
+  color: grey;
+}
+
+.like_button {
+
+  display:inline;
+  color: grey;
+  margin-left: 5px;
+}
